@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\thiago\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init --y
+
+PATH: 
+  C:\Users\thiago\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\thiago\bin;C:\Python39\Scripts;C:\Python39;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Java\jdk1.8.0_301\bin;C:\Program Files\Git\cmd;C:\dart-flutter\dart-sdk\bin;C:\dart-flutter\flutter\bin;C:\Users\thiago\AppData\Local\Android\Sdk\platform-tools;C:\Users\thiago\AppData\Local\Android\Sdk\tools;C:\Users\thiago\AppData\Local\Android\Sdk\build-tools\30.0.3;C:\ProgramData\chocolatey\bin;C:\gradle\bin;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\5.0\bin;C:\php-8.0.12-nts;C:\ProgramData\ComposerSetup\bin;C:\Users\thiago\AppData\Local\Microsoft\WindowsApps;C:\Users\thiago\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\thiago\AppData\Roaming\npm;C:\Users\thiago\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  14.18.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\thiago\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:137145:13)
+      at Interface.emit (events.js:400:28)
+      at Interface._ttyWrite (readline.js:1001:16)
+      at ReadStream.onkeypress (readline.js:265:10)
+      at ReadStream.emit (events.js:400:28)
+      at emitKeys (internal/readline/utils.js:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1270:36)
+      at ReadStream.emit (events.js:400:28)
+      at addChunk (internal/streams/readable.js:293:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
